@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:32:36Z
+  collectedAt: 2026-09-11T19:29:52Z
 timeline:
   created: 2023-06-17
   lastCommit: 2026-02-05
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 82515
+  star: 82552
   watcher: 760
-  fork: 9597
+  fork: 9607
   release: 0
   contributor: 3
   pullRequest: 41
@@ -80,7 +80,7 @@ total:
   commit: 96
 ---
 path: /home/runner/.x-repo/github.com/mlabonne/llm-course
-collectedAt: 2026-09-11T05:32:37Z
+collectedAt: 2026-09-11T19:29:55Z
 loc:
   Svg:
     code: 1
