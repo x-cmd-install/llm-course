@@ -29,7 +29,7 @@ Total: **1** lines of code across **2** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 82,506 · **Forks**: 9,596 · **Open issues**: 100 · **Contributors**: 3
+- **Stars**: 82,515 · **Forks**: 9,597 · **Open issues**: 100 · **Contributors**: 3
 
 ## Totals (cumulative)
 
@@ -39,12 +39,12 @@ Total: **1** lines of code across **2** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 2 | 0 |
-| last60d | 2026-07-12 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last180d | 2026-03-14 | 0 | 0 | 9 | 1 | 4 | 0 |
-| 360d | 2025-09-15 | 0 | 1 | 12 | 3 | 12 | 3 |
-| last720d | 2024-09-20 | 0 | 1 | 16 | 7 | 26 | 16 |
+| 30d | 2026-08-12 | 0 | 0 | 2 | 0 | 2 | 0 |
+| last60d | 2026-07-13 | 0 | 0 | 3 | 0 | 2 | 0 |
+| 90d | 2026-06-13 | 0 | 0 | 4 | 0 | 3 | 0 |
+| last180d | 2026-03-15 | 0 | 0 | 9 | 1 | 4 | 0 |
+| 360d | 2025-09-16 | 0 | 1 | 12 | 3 | 12 | 3 |
+| last720d | 2024-09-21 | 0 | 1 | 16 | 7 | 26 | 16 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for llm-course lives in the [x-cmd/install](https://github.com/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T23:49:30Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:32:40Z._
