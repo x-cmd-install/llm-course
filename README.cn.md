@@ -4,7 +4,7 @@
 
 Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 
-[![x-cmd/install — llm-course Code Quality Monitoring Repo Card](https://repo.x-cmd.io/llm-course.svg?lang=zh)](https://x-cmd.com/install/llm-course)
+[![x-cmd/install — llm-course Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/llm-course.svg?lang=zh)](https://x-cmd.com/install/llm-course)
 
 ## 安装
 
@@ -29,22 +29,22 @@ x install llm-course
 
 ## 流行度
 
-- **Star**: 83,070 · **Fork**: 9,665 · **开放 issue**: 100 · **贡献者**: 3
+- **Star**: 83,094 · **Fork**: 9,671 · **开放 issue**: 100 · **贡献者**: 3
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 2 · **开放 PR**: 23 · **已关闭 issue**: 33 · **开放 issue**: 67 · **提交数**: 96
+- **发布数**: 0 · **已合并 PR**: 2 · **开放 PR**: 24 · **已关闭 issue**: 33 · **开放 issue**: 67 · **提交数**: 96
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 3 | 0 | 2 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 4 | 0 | 3 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 9 | 0 | 3 | 0 |
-| 360d | 2025-09-27 | 0 | 1 | 10 | 3 | 11 | 3 |
-| last720d | 2024-10-02 | 0 | 1 | 16 | 7 | 26 | 16 |
+| 30d | 2026-08-24 | 0 | 0 | 3 | 0 | 1 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 4 | 0 | 2 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 5 | 0 | 3 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 10 | 0 | 3 | 0 |
+| 360d | 2025-09-28 | 0 | 1 | 11 | 3 | 11 | 3 |
+| last720d | 2024-10-03 | 0 | 1 | 17 | 7 | 26 | 16 |
 
 ## 改进这些数据
 
@@ -55,4 +55,4 @@ llm-course 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/instal
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:54:43Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:52:37Z._
